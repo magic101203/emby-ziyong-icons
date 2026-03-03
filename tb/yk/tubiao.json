@@ -1,1 +1,14 @@
-
+{
+  "iconList": [
+    {
+      "name": "forward-1",
+      "url": "https://raw.githubusercontent.com/magic101203/emby-ziyong-icons/main/tb/yk/Netflix_Text.png"
+    },
+    {
+      "name": "forward-2",
+      "url": "https://raw.githubusercontent.com/你的GitHub用户名/仓库名/main/Icons/Forward/forward-2.png"
+    }
+  ],
+  "updateTime": "2026-03-03",
+  "category": "Forward"
+}
